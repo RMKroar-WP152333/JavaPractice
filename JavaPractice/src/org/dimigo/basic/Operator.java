@@ -1,6 +1,3 @@
-/**
- * 
- */
 package org.dimigo.basic;
 
 /**
@@ -15,6 +12,7 @@ package org.dimigo.basic;
  * @author : RMKroar
  * @version : 1.0
  */
+
 public class Operator {
 	public static void main(String[] args) {
 		int salary = 1700000, clerkN = 3, storeN = 1500;
