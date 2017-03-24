@@ -3,9 +3,9 @@ package org.dimigo.oop;
 /**
  * <pre>
  * org.dimigo.oop
- *  |_ Car.java
+ *  |_ Car2.java
  * 
- * Date : 2017. 3. 23.
+ * Date : 2017. 3. 24.
  * </pre>
  *
  * @author : RMKroar

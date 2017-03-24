@@ -3,14 +3,14 @@ package org.dimigo.oop;
 /**
  * <pre>
  * org.dimigo.oop
- *  |_ CarTest.java
+ *  |_ CarTest2.java
  * 
- * Date : 2017. 3. 23.
+ * Date : 2017. 3. 24.
  * This program is for making a introduction of 3 representative cars in Korea.
  * </pre>
  *
  * @author : RMKroar
- * @version : 2.0
+ * @version : 1.0
  */
 
 public class CarTest2 {
