@@ -6,7 +6,7 @@ package org.dimigo.inheritance;
  *  |_ PersonTest2.java
  * 
  * Date : 2017. 5. 10.
- * This program is for practicing how to utilize method overriding in Java.
+ * This program is for practicing polymorphism in Java.
  * </pre>
  *
  * @author : RMKroar
