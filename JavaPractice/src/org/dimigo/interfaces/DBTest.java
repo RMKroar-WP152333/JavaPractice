@@ -15,10 +15,10 @@ package org.dimigo.interfaces;
 public class DBTest {
 	public static void main(String[] args) {
 		System.out.println("<< 변경 전 >>");
-		IDBManager db = IDBManager.getDBObject("ORACLE");
+		IDBManager db = IDBManager.getDBObject("SYBASE");
 		crud(db);
 		System.out.println("<< 변경 후 >>");
-		IDBManager db2 = IDBManager.getDBObject("SYBASE");
+		IDBManager db2 = IDBManager.getDBObject("ORACLE");
 		crud(db2);
 	}
 	
