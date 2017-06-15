@@ -17,7 +17,7 @@ public class ArakoMenu {
 			
 			writer.flush();
 			
-			System.out.println(" << 메뉴 출력 >> ");
+			System.out.println("<< 메뉴 출력 >>");
 			while((data = reader.readLine()) != null) {
 				System.out.println(data);
 			}
